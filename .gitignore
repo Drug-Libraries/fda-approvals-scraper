@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.env
+chromedriver
+fda_approvals.csv
+
