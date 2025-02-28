@@ -32,7 +32,7 @@ cd fda-drug-scraper
 ```
 3. Run the script:
 ```sh
-python scraper.py
+python3 main.py
 ```
 
 Authors
