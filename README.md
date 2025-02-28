@@ -36,8 +36,10 @@ python scraper.py
 ```
 
 Authors
-- Upputoori Sree Vasthav
-- R. Shibin
+
+- Drug-Libraries - [GitHub Profile](https://github.com/Drug-Libraries)
+- Upputoori Sree Vasthav - [GitHub Profile](https://github.com/SreeVasthav-Upputoori)
+- R. Shibin - [GitHub Profile](https://github.com/Shibin17)
 
 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
