@@ -34,6 +34,7 @@ cd fda-drug-scraper/backend
 ```sh
 python3 app.py
 ```
+open http://127.0.0.1:5000 in your preferred browser 
 
 Authors
 
