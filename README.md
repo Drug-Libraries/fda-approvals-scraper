@@ -32,7 +32,7 @@ cd fda-drug-scraper/backend
 ```
 3. Run the script:
 ```sh
-python3 main.py
+python3 app.py
 ```
 
 Authors
