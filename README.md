@@ -28,7 +28,7 @@ git clone https://github.com/your-repo/fda-drug-scraper.git
 ```
 2. Navigate to the project directory:
 ```sh
-cd fda-drug-scraper
+cd fda-drug-scraper/backend
 ```
 3. Run the script:
 ```sh
