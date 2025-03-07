@@ -7,7 +7,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-# ✅ Define paths
+#  Define paths
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 FRONTEND_DIR = os.path.join(BASE_DIR, "../frontend")  # Path to frontend folder
 OUTPUT_FOLDER = os.path.join(FRONTEND_DIR, "files")  # Folder for CSV storage
