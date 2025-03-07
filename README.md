@@ -39,6 +39,7 @@ Authors
 
 - Drug-Libraries - [GitHub Profile](https://github.com/Drug-Libraries)
 - Upputoori Sree Vasthav - [GitHub Profile](https://github.com/SreeVasthav-Upputoori)
+- Srimadhav Varma - [GitHub Profile](https://github.com/Srimadhav-varma)
 - R. Shibin - [GitHub Profile](https://github.com/Shibin17)
 
 License
